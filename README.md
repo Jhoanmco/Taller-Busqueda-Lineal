@@ -1,8 +1,7 @@
 # 💻 TALLER: BÚSQUEDA LINEAL APLICADA A TIENDA DE ELECTRÓNICA
 
-**Estudiante:** [Tu Nombre Completo Aquí]  
-**Materia:** Algoritmos y Estructuras de Datos  
-**Fecha de Entrega:** [Fecha]
+**Estudiante:** Jhoan Manuel Chávez Ocampo  
+**Fecha de Entrega:** 27/10/2025
 
 ---
 
