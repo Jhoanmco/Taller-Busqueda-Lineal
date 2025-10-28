@@ -1,7 +1,7 @@
 # 💻 TALLER: BÚSQUEDA LINEAL APLICADA A TIENDA DE ELECTRÓNICA
 
 **Estudiante:** Jhoan Manuel Chávez Ocampo  
-**Fecha de Entrega:** 27/10/2025
+**Fecha de Entrega:** 28/10/2025
 
 ---
 
